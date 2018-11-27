@@ -723,6 +723,7 @@ def add_pretty_names(instances):
         'c4': 'C4 High-CPU',
         'c5': 'C5 High-CPU',
         'c5d': 'C5 High-CPU',
+        'c5n': 'C5 High-CPU',
         'cc2': 'Cluster Compute',
         'cg1': 'Cluster GPU',
         'cr1': 'High Memory Cluster',
